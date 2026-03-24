@@ -1,4 +1,4 @@
-# A Mamba-Based Cross-Adaptive CollaborativeFusion Algorithm On 3D Human Pose Stream
+# Cross-Adaptive Collaborative Fusion for Estimating Classic Human Pose in Video Streams
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 
 ## Environment
